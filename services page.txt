@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Services - Abdure Pharmacy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Our Services</h1>
+    </header>
+    <section>
+        <ul>
+            <li>Health Information and Advice</li>
+            <li>Pharmacological Consultations</li>
+            <li>Seasonal Health Tips</li>
+        </ul>
+    </section>
+</body>
+</html>
